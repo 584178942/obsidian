@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary -->
+    <color name="primary">#1976D2</color>
+    <color name="primary_dark">#1565C0</color>
+    <color name="primary_light">#42A5F5</color>
+
+    <!-- Secondary -->
+    <color name="secondary">#FF5722</color>
+    <color name="secondary_dark">#E64A19</color>
+    <color name="secondary_light">#FF8A65</color>
+
+    <!-- Status -->
+    <color name="success">#4CAF50</color>
+    <color name="warning">#FF9800</color>
+    <color name="error">#F44336</color>
+    <color name="info">#2196F3</color>
+
+    <!-- Background -->
+    <color name="background">#FAFAFA</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="on_surface">#212121</color>
+
+    <!-- Text -->
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <color name="text_hint">#9E9E9E</color>
+
+    <!-- Device Status -->
+    <color name="status_online">#4CAF50</color>
+    <color name="status_offline">#F44336</color>
+    <color name="status_unknown">#9E9E9E</color>
+</resources>
